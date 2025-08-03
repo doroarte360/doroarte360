@@ -1,7 +1,5 @@
 ![Banner](https://github.com/doroarte360/doroarte360/raw/main/383dd924-91bc-4f9e-afa3-0b6a4f2b4144.png)
 
-
-
 # 👋 ¡Hola! Soy Toni Doro Jr.
 
 🎯 Fotógrafo profesional con más de 20 años de experiencia, especializado en eventos deportivos, arquitectura, retratos y fotografía artística. Trabajo con empresas como Idealista, cubriendo torneos y eventos con precisión y creatividad.
