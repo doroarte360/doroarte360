@@ -10,7 +10,7 @@
 
 ## 🚀 Proyectos destacados
 
-### 📚 [Ventana Sabia](https://github.com/TU-USUARIO/ventana-sabia) (en preparación – se publicará próximamente)
+### 📚 Ventana Sabia (en preparación – se publicará próximamente)
 Plataforma web para donar, buscar y compartir libros. Diseñada como una red cultural para lectores del mundo, con registro de usuarios, donaciones, y buscadores avanzados.  
 **Tecnologías:** Flask, SQLAlchemy, SQLite, HTML/CSS.
 
