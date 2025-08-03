@@ -12,6 +12,8 @@
 Plataforma web para donar, buscar y compartir libros. Diseñada como una red cultural para lectores del mundo, con registro de usuarios, donaciones, y buscadores avanzados.  
 **Tecnologías:** Flask, SQLAlchemy, SQLite, HTML/CSS.
 
+(en preparación – se publicará próximamente
+
 ### 🌿 Jardín Villa Doro *(en preparación)*
 Proyecto de diseño sostenible y natural frente al mar, con estética inspirada en la jardinería china, iluminación solar y riego eficiente. Documentación visual y técnica.
 
@@ -23,7 +25,7 @@ Herramienta para organizar, presentar y entregar galerías fotográficas a clien
 ## 🔗 Web y redes profesionales
 
 - 🌐 [www.fotosdoro.es](https://www.fotosdoro.es)
-- 📸 [Instagram – @tonidorojr](https://instagram.com/tonidoroj)
+- 📸 [Instagram – @tonidorojr](https://instagram.com/tonidorojr)
 - 💼 [LinkedIn](https://linkedin.com/in/fotosdoro)
 - ✉️ [toniplana@doroarte.com](mailto:toniplana@doroarte.com)
 
