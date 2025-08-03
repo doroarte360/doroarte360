@@ -1,4 +1,5 @@
-https://github.com/doroarte360/doroarte360/raw/main/A_banner_introducing_Toni_Doro_Jr._as_a_photograph.png
+![Banner](https://github.com/doroarte360/doroarte360/raw/main/A_banner_introducing_Toni_Doro_Jr._as_a_photograph.png)
+
 
 # 👋 ¡Hola! Soy Toni Doro Jr.
 
