@@ -8,11 +8,11 @@
 
 ## 🚀 Proyectos destacados
 
-### 📚 [Ventana Sabia](https://github.com/TU-USUARIO/ventana-sabia)
+### 📚 [Ventana Sabia](https://github.com/TU-USUARIO/ventana-sabia) (en preparación – se publicará próximamente)
 Plataforma web para donar, buscar y compartir libros. Diseñada como una red cultural para lectores del mundo, con registro de usuarios, donaciones, y buscadores avanzados.  
 **Tecnologías:** Flask, SQLAlchemy, SQLite, HTML/CSS.
 
-(en preparación – se publicará próximamente
+
 
 ### 🌿 Jardín Villa Doro *(en preparación)*
 Proyecto de diseño sostenible y natural frente al mar, con estética inspirada en la jardinería china, iluminación solar y riego eficiente. Documentación visual y técnica.
